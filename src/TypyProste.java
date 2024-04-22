@@ -1,5 +1,8 @@
 // zawieraja tylko "surowe dane"
+
 public class TypyProste {
+    public static void main(String[] args) {
+    }
     //liczby stałe
       byte firstNumber = 127; // 1 bajt -128 do 127
       short secondNumber = 2689; // 2 bajty -32768 do 32767
